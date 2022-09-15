@@ -1,5 +1,5 @@
 # COMP9311
-Database Systems T3'20
+Database Systems 20T3
 
 This repository contains the project done as part of COMP9311 which involves querying of the database as specified in the schema.sql and the summary.pdf file. 
 
